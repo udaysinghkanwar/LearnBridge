@@ -2,7 +2,7 @@
 
 **Your personal AI-powered assignment editor, tutor, and writing companion.**
 
-LearnBridge helps students stay on task, understand their assignments, and write with clarity. It connects to platforms like Canvas, Google Classroom, Notion, and Teams (via Sim AI / n8n), and provides two core modes: **Ask Mode** for guided help and **Agent Mode** for inline editing suggestions — all powered by Google Gemini AI.
+LearnBridge helps students stay on task, understand their assignments, and write with clarity. It connects to platforms like Canvas, Google Classroom, Notion, and Teams (via Sim AI / n8n), and provides two core modes: **Ask Mode** for guided help and **Agent Mode** for inline editing suggestions — all powered by Google Gemini AI. [Here](https://github.com/udaysinghkanwar/ClassroomChatBot) is the Google ADK toolkit-powered chatbot, which is part of the entire application. 
 
 ---
 
